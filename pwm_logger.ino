@@ -1,6 +1,6 @@
 /*
    This program tracks the amount of time that the input square wave 
-   is high on pins d2, d2, d8, a0, and d4. 
+   is high on pins d2, d3, d8, a0, and d4. 
 */
 
 const byte LED = 13;
